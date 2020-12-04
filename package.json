@@ -1,0 +1,62 @@
+{
+  "name": "nts-scripts",
+  "version": "0.0.6",
+  "description": "Simple npm `scripts` and common `devDependencies` to help build a Node TypeScript app.",
+  "author": "djdmbrwsk@gmail.com",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "typescript",
+    "scripts",
+    "dependencies",
+    "build",
+    "clean",
+    "format",
+    "lint",
+    "start",
+    "test",
+    "watch"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "bin": {
+    "nts-scripts": "build/bin/nts-scripts.js"
+  },
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "nts-scripts": "ts-node ./src/bin/nts-scripts",
+    "build": "npm run nts-scripts -- build",
+    "clean": "npm run nts-scripts -- clean",
+    "format": "npm run nts-scripts -- format",
+    "lint": "npm run nts-scripts -- lint",
+    "start": "npm run nts-scripts -- start --main ./build/test-app",
+    "test": "npm run nts-scripts -- test",
+    "watch": "npm run nts-scripts -- watch --main ./build/test-app"
+  },
+  "dependencies": {
+    "@types/cross-spawn": "^6.0.2",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^14.14.6",
+    "@types/yargs": "^15.0.9",
+    "@typescript-eslint/eslint-plugin": "^4.6.1",
+    "@typescript-eslint/parser": "^4.6.1",
+    "concurrently": "^5.3.0",
+    "cross-spawn": "^7.0.3",
+    "eslint": "^7.13.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "import-sort-style-module": "^6.0.0",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.1.2",
+    "prettier-plugin-import-sort": "0.0.6",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^26.4.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5",
+    "yargs": "^13.3.2"
+  }
+}
