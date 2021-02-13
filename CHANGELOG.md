@@ -1,3 +1,11 @@
+### [1.0.5](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.4...v1.0.5) (2021-02-13)
+
+
+### Chores
+
+* **deps:** bump ts-node from 9.0.0 to 9.1.1 ([#7](https://github.com/djdmbrwsk/nts-scripts/issues/7)) ([077cf42](https://github.com/djdmbrwsk/nts-scripts/commit/077cf42ab411e00ff2d73ff66af28b6da889d254))
+* Add repo to package.json ([6d6fa76](https://github.com/djdmbrwsk/nts-scripts/commit/6d6fa764ef08472d96cc7ccc665d22650aafd1d8))
+
 ### [1.0.4](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.3...v1.0.4) (2021-02-13)
 
 
