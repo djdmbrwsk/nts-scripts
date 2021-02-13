@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.2...v1.0.3) (2021-02-13)
+
+
+### Chores
+
+* **deps:** bump eslint-plugin-prettier from 3.1.4 to 3.3.1 ([#3](https://github.com/djdmbrwsk/nts-scripts/issues/3)) ([c68f3f4](https://github.com/djdmbrwsk/nts-scripts/commit/c68f3f4a8dc8ca9ced89c67b24f898396e6fd748))
+
 ### [1.0.2](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.1...v1.0.2) (2021-02-13)
 
 
