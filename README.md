@@ -1,3 +1,7 @@
+[![build](https://img.shields.io/github/workflow/status/djdmbrwsk/nts-scripts/Lint%2C%20build%2C%20test/master)](https://github.com/djdmbrwsk/nts-scripts/actions?query=branch%3Amaster+workflow%3A%22Lint%2C+build%2C+test%22)
+&nbsp;
+[![npm](https://img.shields.io/npm/v/nts-scripts)](https://www.npmjs.com/package/nts-scripts)
+
 # nts-scripts
 
 Simple npm `scripts` and common `devDependencies` to help build a Node TypeScript app.
