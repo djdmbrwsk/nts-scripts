@@ -1,3 +1,10 @@
+### [1.0.4](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.3...v1.0.4) (2021-02-13)
+
+
+### Chores
+
+* **deps:** bump @typescript-eslint/parser from 4.6.1 to 4.15.0 ([#4](https://github.com/djdmbrwsk/nts-scripts/issues/4)) ([b48b4d0](https://github.com/djdmbrwsk/nts-scripts/commit/b48b4d0d437ebe0232732bd96ab0366c5ec7860a))
+
 ### [1.0.3](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.2...v1.0.3) (2021-02-13)
 
 
