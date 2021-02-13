@@ -1,3 +1,11 @@
+### [1.0.2](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.1...v1.0.2) (2021-02-13)
+
+
+### Chores
+
+* **deps:** bump eslint from 7.13.0 to 7.20.0 ([#2](https://github.com/djdmbrwsk/nts-scripts/issues/2)) ([3f363a0](https://github.com/djdmbrwsk/nts-scripts/commit/3f363a08207377998ffaefa189c6ab63f024f70a))
+* Add readme badges ([1c4c693](https://github.com/djdmbrwsk/nts-scripts/commit/1c4c693f54623e205865c3aead6c68faa2aab816))
+
 ### [1.0.1](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.0...v1.0.1) (2021-02-13)
 
 
