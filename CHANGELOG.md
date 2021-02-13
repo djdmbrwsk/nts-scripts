@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.0...v1.0.1) (2021-02-13)
+
+
+### Chores
+
+* **deps:** bump @types/node from 14.14.6 to 14.14.27 ([#1](https://github.com/djdmbrwsk/nts-scripts/issues/1)) ([7d69cee](https://github.com/djdmbrwsk/nts-scripts/commit/7d69cee2e7fab9a12e93f8600cdce44f08b93e6d))
+
 ## 1.0.0 (2021-02-13)
 
 
