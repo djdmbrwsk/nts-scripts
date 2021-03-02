@@ -1,3 +1,11 @@
+### [1.0.7](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.6...v1.0.7) (2021-03-02)
+
+
+### Chores
+
+* **deps:** bump eslint from 7.20.0 to 7.21.0 ([#12](https://github.com/djdmbrwsk/nts-scripts/issues/12)) ([c86c6e7](https://github.com/djdmbrwsk/nts-scripts/commit/c86c6e764290167e6d2078e951bc0c8aea89c08c))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([#11](https://github.com/djdmbrwsk/nts-scripts/issues/11)) ([8a268cc](https://github.com/djdmbrwsk/nts-scripts/commit/8a268cc37a9a33df9e7f9fd6c5941261afcda677))
+
 ### [1.0.6](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.5...v1.0.6) (2021-02-13)
 
 
