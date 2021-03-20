@@ -1,3 +1,15 @@
+### [1.0.11](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.10...v1.0.11) (2021-03-20)
+
+
+### Bug Fixes
+
+* Propagate exit codes ([1c9dc37](https://github.com/djdmbrwsk/nts-scripts/commit/1c9dc372aab1fd33f0f2c926c6df98b24b88838e))
+
+
+### Chores
+
+* Add license ([7125898](https://github.com/djdmbrwsk/nts-scripts/commit/7125898de7ade96a4488d5d8d4709048a33abef3))
+
 ### [1.0.10](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.9...v1.0.10) (2021-03-02)
 
 
