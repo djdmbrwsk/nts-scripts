@@ -5,6 +5,7 @@ import spawn from 'cross-spawn';
 import { Arguments, Argv, CommandModule } from 'yargs';
 
 import { CommonArgs } from '../bin/nts-scripts';
+import { propagateExitCode } from '../utils/processUtils';
 
 interface FormatArgs extends CommonArgs {
   disableGitignore: boolean;
@@ -45,9 +46,14 @@ class Format implements CommandModule<CommonArgs, FormatArgs> {
     }
 
     verbose && console.log(`Formatting files: `, glob);
-    spawn.sync('prettier', [...ignorePathArgs, '--write', glob], {
-      stdio: 'inherit',
-    });
+    const result = spawn.sync(
+      'prettier',
+      [...ignorePathArgs, '--write', glob],
+      {
+        stdio: 'inherit',
+      },
+    );
+    propagateExitCode(result, 'prettier');
   };
 }
 

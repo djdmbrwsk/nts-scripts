@@ -5,6 +5,7 @@ import spawn from 'cross-spawn';
 import { Arguments, Argv, CommandModule } from 'yargs';
 
 import { CommonArgs } from '../bin/nts-scripts';
+import { propagateExitCode } from '../utils/processUtils';
 
 interface LintArgs extends CommonArgs {
   disableMaxWarnings: boolean;
@@ -59,9 +60,14 @@ class Lint implements CommandModule<CommonArgs, LintArgs> {
     }
 
     verbose && console.log(`Linting files: `, glob);
-    spawn.sync('eslint', [...ignorePathArgs, ...maxWarningsArgs, glob], {
-      stdio: 'inherit',
-    });
+    const result = spawn.sync(
+      'eslint',
+      [...ignorePathArgs, ...maxWarningsArgs, glob],
+      {
+        stdio: 'inherit',
+      },
+    );
+    propagateExitCode(result, 'eslint');
   };
 }
 

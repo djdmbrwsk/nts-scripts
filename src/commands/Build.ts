@@ -2,6 +2,7 @@ import spawn from 'cross-spawn';
 import { Arguments, Argv, CommandModule } from 'yargs';
 
 import { CommonArgs } from '../bin/nts-scripts';
+import { propagateExitCode } from '../utils/processUtils';
 import { getInclude, getOutDir } from '../utils/tsconfigJsonUtils';
 
 interface BuildArgs extends CommonArgs {
@@ -38,9 +39,10 @@ class Build implements CommandModule<CommonArgs, BuildArgs> {
     }
 
     verbose && console.log(`Compiling included TypeScript: `, include);
-    spawn.sync('tsc', [...tscArgs], {
+    const result = spawn.sync('tsc', [...tscArgs], {
       stdio: 'inherit',
     });
+    propagateExitCode(result, 'tsc');
   };
 }
 
