@@ -10,7 +10,7 @@ class Test implements CommandModule<CommonArgs, TestArgs> {
   command = 'test';
   describe = `Run tests`;
   handler = async (args: Arguments<TestArgs>): Promise<void> => {
-    const { _, verbose } = args;
+    const { verbose } = args;
 
     verbose && console.log('Running tests');
     const result = spawn.sync(
