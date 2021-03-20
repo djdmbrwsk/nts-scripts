@@ -6,6 +6,8 @@
 
 Simple npm `scripts` and common `devDependencies` to help build a Node TypeScript app.
 
+Inspired by Create React App's [react-scripts](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts) package 👏
+
 ## Included dependencies
 
 - TypeScript
