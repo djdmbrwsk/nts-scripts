@@ -10,16 +10,19 @@ class Test implements CommandModule<CommonArgs, TestArgs> {
   command = 'test';
   describe = `Run tests`;
   handler = async (args: Arguments<TestArgs>): Promise<void> => {
-    const { verbose } = args;
+    const { _, verbose } = args;
+
+    let jestArgs = ['--coverage', '--runInBand', '--verbose'];
+    const extraArgs = _[0] === this.command ? _.slice(1) : _;
+    if (extraArgs.length) {
+      verbose && console.log('Forwarding extra args');
+      jestArgs = extraArgs;
+    }
 
     verbose && console.log('Running tests');
-    const result = spawn.sync(
-      'jest',
-      ['--coverage', '--runInBand', '--verbose'],
-      {
-        stdio: 'inherit',
-      },
-    );
+    const result = spawn.sync('jest', jestArgs, {
+      stdio: 'inherit',
+    });
     propagateExitCode(result, 'jest');
   };
 }
