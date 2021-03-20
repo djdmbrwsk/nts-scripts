@@ -1,3 +1,15 @@
+## [1.1.0](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.11...v1.1.0) (2021-03-20)
+
+
+### Features
+
+* Forward extra args to jest ([5d14bae](https://github.com/djdmbrwsk/nts-scripts/commit/5d14baefb6cd39a67b3c3c37087378e80694aaaf))
+
+
+### Chores
+
+* Fix lint error ([2c2292c](https://github.com/djdmbrwsk/nts-scripts/commit/2c2292cd24a1fcacbb3a78bf8e49e8da9ef11690))
+
 ### [1.0.11](https://github.com/djdmbrwsk/nts-scripts/compare/v1.0.10...v1.0.11) (2021-03-20)
 
 
