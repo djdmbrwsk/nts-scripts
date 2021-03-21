@@ -1,3 +1,15 @@
+### [1.1.2](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.1...v1.1.2) (2021-03-21)
+
+
+### Bug Fixes
+
+* Issue forwarding arguments ([ca7b3b1](https://github.com/djdmbrwsk/nts-scripts/commit/ca7b3b185ddc2441e11926712e31f31a45bad428))
+
+
+### Chores
+
+* Move unnecessary deps to devDeps ([67c17b2](https://github.com/djdmbrwsk/nts-scripts/commit/67c17b249ab10568adda02f081fb343c89c89ea5))
+
 ### [1.1.1](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.0...v1.1.1) (2021-03-20)
 
 
