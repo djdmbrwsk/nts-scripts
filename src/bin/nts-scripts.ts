@@ -29,5 +29,4 @@ yargs
   .command(Watch)
   .help()
   .version()
-  .strict()
   .demandCommand(1, 'You need at least one command before moving on').argv;
