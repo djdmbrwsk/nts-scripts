@@ -16,7 +16,7 @@ class Test implements CommandModule<CommonArgs, TestArgs> {
     const extraArgs = _[0] === this.command ? _.slice(1) : _;
     if (extraArgs.length) {
       verbose && console.log('Forwarding extra args');
-      jestArgs = extraArgs;
+      jestArgs = extraArgs.map((a) => a.toString());
     }
 
     verbose && console.log('Running tests');
