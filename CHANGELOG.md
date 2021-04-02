@@ -1,3 +1,12 @@
+### [1.1.4](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.3...v1.1.4) (2021-04-02)
+
+
+### Chores
+
+* **deps:** bump @types/jest from 26.0.21 to 26.0.22 ([#22](https://github.com/djdmbrwsk/nts-scripts/issues/22)) ([2cbf564](https://github.com/djdmbrwsk/nts-scripts/commit/2cbf564d9975534553d9905a05df547d86e4ccac))
+* **deps:** bump @typescript-eslint/parser from 4.18.0 to 4.20.0 ([#20](https://github.com/djdmbrwsk/nts-scripts/issues/20)) ([a9bf9e2](https://github.com/djdmbrwsk/nts-scripts/commit/a9bf9e27da23807b5f38e88403957f8932fad930))
+* **deps-dev:** bump @types/yargs from 15.0.13 to 16.0.1 ([#23](https://github.com/djdmbrwsk/nts-scripts/issues/23)) ([3b7ded2](https://github.com/djdmbrwsk/nts-scripts/commit/3b7ded215be19e33afbdd163dc60c608bd853a64))
+
 ### [1.1.3](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.2...v1.1.3) (2021-04-02)
 
 
