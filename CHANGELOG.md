@@ -1,3 +1,14 @@
+### [1.1.5](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.4...v1.1.5) (2021-04-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** bump eslint-config-prettier from 6.15.0 to 8.1.0 (#21)
+
+### Chores
+
+* **deps:** bump eslint-config-prettier from 6.15.0 to 8.1.0 ([#21](https://github.com/djdmbrwsk/nts-scripts/issues/21)) ([d9b0a40](https://github.com/djdmbrwsk/nts-scripts/commit/d9b0a407a5fc7716697e3391407f922978e292a4))
+
 ### [1.1.4](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.3...v1.1.4) (2021-04-02)
 
 
