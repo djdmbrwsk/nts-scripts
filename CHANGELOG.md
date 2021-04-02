@@ -1,3 +1,10 @@
+### [1.1.3](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.2...v1.1.3) (2021-04-02)
+
+
+### Chores
+
+* **deps:** bump eslint from 7.22.0 to 7.23.0 ([#19](https://github.com/djdmbrwsk/nts-scripts/issues/19)) ([dfcacf7](https://github.com/djdmbrwsk/nts-scripts/commit/dfcacf74de94e0de0be2d268be7dba164c45eb04))
+
 ### [1.1.2](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.1...v1.1.2) (2021-03-21)
 
 
