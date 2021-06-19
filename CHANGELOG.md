@@ -1,3 +1,11 @@
+### [1.1.12](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.11...v1.1.12) (2021-06-19)
+
+
+### Chores
+
+* **deps:** Run npm audit fix ([#36](https://github.com/djdmbrwsk/nts-scripts/issues/36)) ([40857e5](https://github.com/djdmbrwsk/nts-scripts/commit/40857e55bd12d8e74e98b873c48c865376797739))
+* **deps-dev:** bump @types/yargs from 16.0.1 to 17.0.0 ([#33](https://github.com/djdmbrwsk/nts-scripts/issues/33)) ([7847b09](https://github.com/djdmbrwsk/nts-scripts/commit/7847b09c050d4081b4bcbde3994f04e09e402fa4))
+
 ### [1.1.11](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.10...v1.1.11) (2021-06-19)
 
 
