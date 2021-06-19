@@ -1,3 +1,10 @@
+### [1.1.11](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.10...v1.1.11) (2021-06-19)
+
+
+### Chores
+
+* **deps:** bump prettier from 2.2.1 to 2.3.1 ([#34](https://github.com/djdmbrwsk/nts-scripts/issues/34)) ([b27784c](https://github.com/djdmbrwsk/nts-scripts/commit/b27784cbef20c383f8815d7fb1922372b82a0b6f))
+
 ### [1.1.10](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.9...v1.1.10) (2021-06-19)
 
 

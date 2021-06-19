@@ -1,6 +1,6 @@
 {
   "name": "nts-scripts",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "Simple npm `scripts` and common `devDependencies` to help build a Node TypeScript app.",
   "author": "Dan Dombrowski <djdmbrwsk@gmail.com>",
   "license": "MIT",
