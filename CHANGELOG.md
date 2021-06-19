@@ -1,3 +1,10 @@
+### [1.1.8](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.7...v1.1.8) (2021-06-19)
+
+
+### Chores
+
+* **deps:** bump ts-jest from 26.5.5 to 26.5.6 ([#29](https://github.com/djdmbrwsk/nts-scripts/issues/29)) ([8d1a2f5](https://github.com/djdmbrwsk/nts-scripts/commit/8d1a2f57d8585af8da7490b1a22e9ab59cf12e31))
+
 ### [1.1.7](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.6...v1.1.7) (2021-05-01)
 
 
