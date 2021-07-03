@@ -51,7 +51,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "import-sort-style-module": "^6.0.0",
     "jest": "^27.0.6",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.9",
     "prettier": "^2.3.2",
     "prettier-plugin-import-sort": "0.0.7",
     "rimraf": "^3.0.2",
