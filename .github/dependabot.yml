@@ -6,5 +6,5 @@ updates:
       interval: 'monthly'
     rebase-strategy: 'disabled'
     commit-message:
-      prefix: 'chore'
+      prefix: 'feat'
       include: 'scope'
