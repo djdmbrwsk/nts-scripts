@@ -5,6 +5,7 @@ updates:
     schedule:
       interval: 'monthly'
     rebase-strategy: 'disabled'
+    open-pull-requests-limit: 20
     commit-message:
       prefix: 'feat'
       include: 'scope'
