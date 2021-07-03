@@ -1,3 +1,20 @@
+## [3.0.0](https://github.com/djdmbrwsk/nts-scripts/compare/v2.0.1...v3.0.0) (2021-07-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade to jest@27
+
+### Features
+
+* Upgrade to jest@27 ([495d1e6](https://github.com/djdmbrwsk/nts-scripts/commit/495d1e6e8ae388b88d81de9559248c68b1e4253e))
+
+
+### Chores
+
+* Allow more dependabot PRs ([00f793d](https://github.com/djdmbrwsk/nts-scripts/commit/00f793d5a6431a8da8f650b4c511619c7afe0927))
+* Switch to "feat" for updates ([d5a0bc6](https://github.com/djdmbrwsk/nts-scripts/commit/d5a0bc6474af8d54fb5a1c2db43c1e426c6bbd9d))
+
 ### [2.0.1](https://github.com/djdmbrwsk/nts-scripts/compare/v2.0.0...v2.0.1) (2021-07-03)
 
 
