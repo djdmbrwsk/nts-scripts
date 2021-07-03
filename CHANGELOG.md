@@ -1,3 +1,15 @@
+## [3.1.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.0.0...v3.1.0) (2021-07-03)
+
+
+### Features
+
+* Upgrade eslint/prettier ([21e0fc1](https://github.com/djdmbrwsk/nts-scripts/commit/21e0fc19f843e46dbcbb8e00e7ca95da39f4bb66))
+
+
+### Chores
+
+* Upgrade semantic-release deps ([9f63ade](https://github.com/djdmbrwsk/nts-scripts/commit/9f63adea7e17aead32ca7f8dcb02059661c85200))
+
 ## [3.0.0](https://github.com/djdmbrwsk/nts-scripts/compare/v2.0.1...v3.0.0) (2021-07-03)
 
 
