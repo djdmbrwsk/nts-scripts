@@ -1,3 +1,22 @@
+## [2.0.0](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.12...v2.0.0) (2021-07-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop support for Node 10 and upgrade to Node 16
+
+### Features
+
+* Drop support for Node 10 and upgrade to Node 16 ([4783179](https://github.com/djdmbrwsk/nts-scripts/commit/47831795ae16dd59cd09ab4225f6583b2332f54b))
+
+
+### Chores
+
+* **deps:** bump nodemon from 2.0.7 to 2.0.9 ([e526f30](https://github.com/djdmbrwsk/nts-scripts/commit/e526f30c2a02b98ac007cb9d8da71696431f9c2e))
+* **deps:** bump prettier from 2.3.1 to 2.3.2 ([df49708](https://github.com/djdmbrwsk/nts-scripts/commit/df49708a12716ef2827bafa9e539a13818357ff1))
+* **deps:** bump prettier-plugin-import-sort from 0.0.6 to 0.0.7 ([acebd62](https://github.com/djdmbrwsk/nts-scripts/commit/acebd62285c85a0283c99e43dbce2f008a36cd17))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.4 ([34008f9](https://github.com/djdmbrwsk/nts-scripts/commit/34008f9aebcd56a847674b4704e55fe13f1bfae4))
+
 ### [1.1.12](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.11...v1.1.12) (2021-06-19)
 
 
