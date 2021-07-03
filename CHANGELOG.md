@@ -1,3 +1,10 @@
+## [3.3.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.2.0...v3.3.0) (2021-07-03)
+
+
+### Features
+
+* **deps:** bump concurrently from 6.0.0 to 6.2.0 ([ba4bdb4](https://github.com/djdmbrwsk/nts-scripts/commit/ba4bdb41d839ce3534d011b7228ec7dcb97db34f))
+
 ## [3.2.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.1.0...v3.2.0) (2021-07-03)
 
 
