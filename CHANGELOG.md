@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/djdmbrwsk/nts-scripts/compare/v2.0.0...v2.0.1) (2021-07-03)
+
+
+### Chores
+
+* **deps:** bump yargs from 16.2.0 to 17.0.1 ([#40](https://github.com/djdmbrwsk/nts-scripts/issues/40)) ([0b5a5b1](https://github.com/djdmbrwsk/nts-scripts/commit/0b5a5b1314222e3d3d031312d9e6ca64abe2250a))
+
 ## [2.0.0](https://github.com/djdmbrwsk/nts-scripts/compare/v1.1.12...v2.0.0) (2021-07-03)
 
 
