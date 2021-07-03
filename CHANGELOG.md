@@ -1,3 +1,16 @@
+## [3.2.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.1.0...v3.2.0) (2021-07-03)
+
+
+### Features
+
+* **deps:** bump nodemon from 2.0.7 to 2.0.9 ([22f6326](https://github.com/djdmbrwsk/nts-scripts/commit/22f632684581bd9381bb8b4dc6c6e4bdbfc534fb))
+
+
+### Chores
+
+* **deps-dev:** bump @types/yargs from 17.0.0 to 17.0.1 ([#51](https://github.com/djdmbrwsk/nts-scripts/issues/51)) ([2217026](https://github.com/djdmbrwsk/nts-scripts/commit/221702694ef23f004793bb3c39ed1f542563eb8a))
+* **deps-dev:** bump ts-node from 9.1.1 to 10.0.0 ([c31b0c2](https://github.com/djdmbrwsk/nts-scripts/commit/c31b0c24c4ad0ca0d7dd47848f848c0d8946e146))
+
 ## [3.1.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.0.0...v3.1.0) (2021-07-03)
 
 
