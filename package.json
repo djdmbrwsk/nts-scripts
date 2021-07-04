@@ -22,7 +22,7 @@
     "url": "https://github.com/djdmbrwsk/nts-scripts.git"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "bin": {
     "nts-scripts": "build/bin/nts-scripts.js"
