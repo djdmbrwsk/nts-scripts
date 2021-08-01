@@ -1,3 +1,24 @@
+## [3.5.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.4.0...v3.5.0) (2021-08-01)
+
+
+### Features
+
+* **deps:** bump @types/jest from 26.0.23 to 26.0.24 ([#57](https://github.com/djdmbrwsk/nts-scripts/issues/57)) ([7cad03f](https://github.com/djdmbrwsk/nts-scripts/commit/7cad03fb19991531a49e088927ac3c072323abef))
+* **deps:** bump @typescript-eslint/eslint-plugin from 4.28.1 to 4.28.5 ([#55](https://github.com/djdmbrwsk/nts-scripts/issues/55)) ([ac064b0](https://github.com/djdmbrwsk/nts-scripts/commit/ac064b0a0e1bd97c6373604938bd3c367a37b764))
+* **deps:** bump @typescript-eslint/parser from 4.28.1 to 4.28.5 ([#61](https://github.com/djdmbrwsk/nts-scripts/issues/61)) ([6b88f6d](https://github.com/djdmbrwsk/nts-scripts/commit/6b88f6dcb5158e7d94a3f1e71dbd062c2530ddb1))
+* **deps:** bump eslint from 7.30.0 to 7.32.0 ([#58](https://github.com/djdmbrwsk/nts-scripts/issues/58)) ([f0f10e5](https://github.com/djdmbrwsk/nts-scripts/commit/f0f10e537fa2d092157d8eb041a53677d2fc6b3c))
+* **deps:** bump nodemon from 2.0.9 to 2.0.12 ([#56](https://github.com/djdmbrwsk/nts-scripts/issues/56)) ([febc8d0](https://github.com/djdmbrwsk/nts-scripts/commit/febc8d0382a33956784e263003970915e0200ca1))
+* **deps:** bump ts-jest from 27.0.3 to 27.0.4 ([#54](https://github.com/djdmbrwsk/nts-scripts/issues/54)) ([a3d8684](https://github.com/djdmbrwsk/nts-scripts/commit/a3d86840c32bc765268268396f60c20cc0fd7b4f))
+* **deps-dev:** bump @types/node from 16.0.0 to 16.4.10 ([#59](https://github.com/djdmbrwsk/nts-scripts/issues/59)) ([54efa91](https://github.com/djdmbrwsk/nts-scripts/commit/54efa915cc3da71c64b0ba577eb317a7f0e45d1d))
+* **deps-dev:** bump @types/yargs from 17.0.1 to 17.0.2 ([#62](https://github.com/djdmbrwsk/nts-scripts/issues/62)) ([a59833f](https://github.com/djdmbrwsk/nts-scripts/commit/a59833fe7dd294f5b2634956930b3286eb9b3176))
+* **deps-dev:** bump ts-node from 10.0.0 to 10.1.0 ([#60](https://github.com/djdmbrwsk/nts-scripts/issues/60)) ([707a32b](https://github.com/djdmbrwsk/nts-scripts/commit/707a32b14ffb07c131bf2c2c1f34d00fe3dff421))
+
+
+### Chores
+
+* Switch to common-semantic-release ([1f1fe7d](https://github.com/djdmbrwsk/nts-scripts/commit/1f1fe7d2a98d10216aa54adff4e4a5c9e4a89a44))
+* Update engines field ([10da018](https://github.com/djdmbrwsk/nts-scripts/commit/10da018287035e2022d376bf838a0b911717a65a))
+
 ## [3.4.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.3.0...v3.4.0) (2021-07-03)
 
 
