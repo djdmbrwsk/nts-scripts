@@ -1,3 +1,10 @@
+## [3.13.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.12.0...v3.13.0) (2021-09-06)
+
+
+### Features
+
+* **deps:** bump typescript from 4.3.5 to 4.4.2 ([#71](https://github.com/djdmbrwsk/nts-scripts/issues/71)) ([4578868](https://github.com/djdmbrwsk/nts-scripts/commit/45788681906fd186086402b0c7a1c880ca8cf1fe))
+
 ## [3.12.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.11.0...v3.12.0) (2021-09-06)
 
 
