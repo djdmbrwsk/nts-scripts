@@ -1,3 +1,15 @@
+## [3.9.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.8.0...v3.9.0) (2021-09-06)
+
+
+### Features
+
+* **deps-dev:** bump ts-node from 10.1.0 to 10.2.1 ([#64](https://github.com/djdmbrwsk/nts-scripts/issues/64)) ([23e935e](https://github.com/djdmbrwsk/nts-scripts/commit/23e935e8f036cba8918fa6039639c166a9814ca3))
+
+
+### Bug Fixes
+
+* Run npm audit fix ([#76](https://github.com/djdmbrwsk/nts-scripts/issues/76)) ([8b8d198](https://github.com/djdmbrwsk/nts-scripts/commit/8b8d198538e4787364a87700df79706f712c9d85))
+
 ## [3.8.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.7.0...v3.8.0) (2021-09-06)
 
 
