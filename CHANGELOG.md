@@ -1,3 +1,10 @@
+## [3.8.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.7.0...v3.8.0) (2021-09-06)
+
+
+### Features
+
+* **deps:** bump [@typescript-eslint](https://github.com/typescript-eslint) dependencies ([#75](https://github.com/djdmbrwsk/nts-scripts/issues/75)) ([16cb72b](https://github.com/djdmbrwsk/nts-scripts/commit/16cb72b39991dd0919873c11ee9b5753da1409b8))
+
 ## [3.7.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.6.0...v3.7.0) (2021-09-06)
 
 
