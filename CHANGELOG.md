@@ -1,3 +1,10 @@
+## [3.7.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.6.0...v3.7.0) (2021-09-06)
+
+
+### Features
+
+* **deps-dev:** bump @types/node from 16.4.10 to 16.7.10 ([#66](https://github.com/djdmbrwsk/nts-scripts/issues/66)) ([a6b675b](https://github.com/djdmbrwsk/nts-scripts/commit/a6b675b258e0076227af580df859a4ac0dde64b2))
+
 ## [3.6.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.5.0...v3.6.0) (2021-09-06)
 
 
