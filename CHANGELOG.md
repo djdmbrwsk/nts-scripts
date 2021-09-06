@@ -1,3 +1,10 @@
+## [3.6.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.5.0...v3.6.0) (2021-09-06)
+
+
+### Features
+
+* **deps-dev:** bump jest dependencies ([#74](https://github.com/djdmbrwsk/nts-scripts/issues/74)) ([2bf47e7](https://github.com/djdmbrwsk/nts-scripts/commit/2bf47e7a7de9feb48119331e658a7795f712fd09))
+
 ## [3.5.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.4.0...v3.5.0) (2021-08-01)
 
 
