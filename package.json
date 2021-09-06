@@ -48,7 +48,7 @@
     "cross-spawn": "^7.0.3",
     "eslint": "^7.30.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-prettier": "^4.0.0",
     "import-sort-style-module": "^6.0.0",
     "jest": "^27.1.0",
     "nodemon": "^2.0.9",
