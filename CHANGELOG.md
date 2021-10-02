@@ -1,3 +1,12 @@
+## [3.15.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.14.0...v3.15.0) (2021-10-02)
+
+
+### Features
+
+* **deps:** bump @types/jest from 27.0.1 to 27.0.2 ([#86](https://github.com/djdmbrwsk/nts-scripts/issues/86)) ([5eee294](https://github.com/djdmbrwsk/nts-scripts/commit/5eee2948b9c5efd1b093fbf48d2be674e3df924c))
+* **deps:** bump jest from 27.1.0 to 27.2.4 ([#80](https://github.com/djdmbrwsk/nts-scripts/issues/80)) ([4bc04a3](https://github.com/djdmbrwsk/nts-scripts/commit/4bc04a33099d2ca5bdb4ba4dadd36d4258f30229))
+* **deps:** bump prettier from 2.3.2 to 2.4.1 ([#83](https://github.com/djdmbrwsk/nts-scripts/issues/83)) ([5ce1915](https://github.com/djdmbrwsk/nts-scripts/commit/5ce1915b51b4f739ea8c56e90b0449d3d67cf0f9))
+
 ## [3.14.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.13.0...v3.14.0) (2021-10-02)
 
 
