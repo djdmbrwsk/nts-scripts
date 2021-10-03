@@ -1,3 +1,12 @@
+## [3.17.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.16.0...v3.17.0) (2021-10-03)
+
+
+### Features
+
+* **deps:** bump @typescript-eslint/eslint-plugin from 4.30.0 to 4.32.0 ([#85](https://github.com/djdmbrwsk/nts-scripts/issues/85)) ([24184f2](https://github.com/djdmbrwsk/nts-scripts/commit/24184f28f4b9d6a4da792b2312bd98f530e845e4))
+* **deps:** bump @typescript-eslint/parser from 4.30.0 to 4.32.0 ([#84](https://github.com/djdmbrwsk/nts-scripts/issues/84)) ([adc87f8](https://github.com/djdmbrwsk/nts-scripts/commit/adc87f8cbcf2ddaa95041f9eeb6585a96dd5aa54))
+* **deps:** bump nodemon from 2.0.12 to 2.0.13 ([#82](https://github.com/djdmbrwsk/nts-scripts/issues/82)) ([5d3fcd1](https://github.com/djdmbrwsk/nts-scripts/commit/5d3fcd1e2632b07276fd18ac108dfb826c8990d8))
+
 ## [3.16.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.15.0...v3.16.0) (2021-10-03)
 
 
