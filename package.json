@@ -46,7 +46,7 @@
     "@typescript-eslint/parser": "^4.30.0",
     "concurrently": "^6.2.0",
     "cross-spawn": "^7.0.3",
-    "eslint": "^7.30.0",
+    "eslint": "^8.8.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "import-sort-style-module": "^6.0.0",
