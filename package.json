@@ -62,7 +62,7 @@
   "devDependencies": {
     "@djdmbrwsk/common-semantic-release": "^1.0.2",
     "@types/cross-spawn": "^6.0.2",
-    "@types/node": "^16.0.0",
+    "@types/node": "^17.0.21",
     "@types/yargs": "^17.0.1",
     "ts-node": "^10.0.0"
   }
