@@ -42,6 +42,10 @@ Cleans, builds, and starts your Node project with debugging enabled. Targets the
 
 Essentially the same as `start` except your project will re-build/start when changes are seen in your `outDir`. Semi-customizable with args.
 
+### `test`
+
+Run your project's Jest tests. Passes CLI args transparently to Jest (e.g., to run just one test suite, do `npm run test testName.test.ts`).
+
 ## Project requirements
 
 ### `tsconfig.json`
