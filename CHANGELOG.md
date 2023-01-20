@@ -1,3 +1,10 @@
+### [3.18.1](https://github.com/djdmbrwsk/nts-scripts/compare/v3.18.0...v3.18.1) (2023-01-20)
+
+
+### Bug Fixes
+
+* Update build badge ([08c9c3e](https://github.com/djdmbrwsk/nts-scripts/commit/08c9c3ee19f5126af495a520697f21290dae0e30))
+
 ## [3.18.0](https://github.com/djdmbrwsk/nts-scripts/compare/v3.17.0...v3.18.0) (2021-10-03)
 
 
