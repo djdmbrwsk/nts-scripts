@@ -1,4 +1,4 @@
-[![build](https://img.shields.io/github/workflow/status/djdmbrwsk/nts-scripts/Lint%2C%20build%2C%20test/master)](https://github.com/djdmbrwsk/nts-scripts/actions?query=branch%3Amaster+workflow%3A%22Lint%2C+build%2C+test%22)
+[![build](https://img.shields.io/github/actions/workflow/status/djdmbrwsk/nts-scripts/lint-build-test.yml?branch=master)](https://github.com/djdmbrwsk/nts-scripts/actions?query=branch%3Amaster+workflow%3A%22Lint%2C+build%2C+test%22)
 &nbsp;
 [![npm](https://img.shields.io/npm/v/nts-scripts)](https://www.npmjs.com/package/nts-scripts)
 
